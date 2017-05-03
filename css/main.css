@@ -87,7 +87,6 @@ header{
 
 #services{
   background-color: #f17c72;
-  text-align: center;
   color: #fff;
   padding: 70px 7px;
 }
@@ -101,4 +100,18 @@ header{
 }
 .box-services img{
   width: 250px;
+}
+
+
+.text-work{
+  font-size: 35px;
+  letter-spacing: 2px;
+  padding: 70px 7px;
+}
+.box-work img{
+  width: 400px;
+}
+
+.work-img{
+  padding: 50px;
 }

@@ -148,3 +148,9 @@ header{
   background-color: rgba(80, 211, 163, 1);
   color: white;
 }
+footer{
+  height: 70px;
+  background: #373B47;
+  color: white;
+  padding-top: 7px;
+}

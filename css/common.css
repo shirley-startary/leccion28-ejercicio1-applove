@@ -14,6 +14,13 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+.row:before, .row:after{
+  content: " ";
+  display: table;
+}
+.row:after{
+  clear: both;
+}
 
 [class*="col-"]{
   min-height: 7px;

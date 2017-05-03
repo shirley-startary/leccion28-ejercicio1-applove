@@ -22,8 +22,8 @@
    imagenModal.src=imgsrc;
    imagenModal.style.width="90%";
 
-   fondo.className="ClaseImageProduct";
-   modal.className="modal";
+   fondo.className="claseImageProduct";
+   modal.className="claseModal";
 
    var botonCerrar=document.getElementById("botonCerrar");
    botonCerrar.innerText="X";
